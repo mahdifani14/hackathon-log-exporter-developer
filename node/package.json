@@ -43,5 +43,9 @@
     "yargs": "^7.0.2"
   },
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "flat": "^2.0.1",
+    "lodash.uniq": "^4.5.0"
+  }
 }
